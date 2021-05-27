@@ -1,4 +1,4 @@
-# vx-run-base
+# vue-tailwind
 
 ## Project setup
 ```
